@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ![Firyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Firyo&show_icons=true)
 
