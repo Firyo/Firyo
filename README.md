@@ -6,7 +6,7 @@ Welcome to my Github profile, my name's Firyo I'm currently in my last year of s
 
 
 ## Hobbies : 
-- Music (Lo-fi, Rap, Game OST)
+- Music (Lo-fi, Future Funk, Rap, Game OST)
 - SimRacing (especially on Assetto Corsa)
 - Video-Games (Garry's Mod is my GOAT)
 - Movies (War movies / Sci-fi)
